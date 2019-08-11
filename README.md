@@ -1,2 +1,2 @@
 # Selenium_BDD_Cucumber_Reporting
-Selenium BDD Cucumber with Cucumber reporting 
+Selenium BDD Cucumber automation project with Cucumber reporting 
